@@ -1,0 +1,84 @@
+,Player,Opponent,Min,Pts Est,Reb Est,Ast Est,Pts+Reb Est,Pts+Ast Est,Reb+Ast Est,Pts+Reb+Ast Est
+22,marcus smart,Atlanta Hawks,32.879999999999995,12.1,3.8,6.3,15.899999999999999,18.4,10.1,22.2
+71,derrick white,Atlanta Hawks,23.814999999999998,13.1,2.5,4.1,15.6,17.2,6.6,19.7
+4,jayson tatum,Atlanta Hawks,35.870000000000005,22.0,8.8,3.3,30.8,25.3,12.100000000000001,34.1
+57,grant williams,Atlanta Hawks,25.83,7.8,3.2,1.1,11.0,8.9,4.300000000000001,12.100000000000001
+35,robert williams,Atlanta Hawks,30.79,9.7,9.4,1.5,19.1,11.2,10.9,20.6
+16,jaylen brown,Atlanta Hawks,33.769999999999996,20.4,6.0,2.7,26.4,23.099999999999998,8.7,29.099999999999998
+37,al horford,Atlanta Hawks,29.814999999999998,9.0,7.4,3.3,16.4,12.3,10.7,19.700000000000003
+41,bogdan bogdanovic,Boston Celtics,29.335,14.4,4.1,2.6,18.5,17.0,6.699999999999999,21.1
+32,danilo gallinari,Boston Celtics,30.68,13.0,5.7,1.3,18.7,14.3,7.0,20.0
+11,trae young,Boston Celtics,34.78,26.0,3.5,8.2,29.5,34.2,11.7,37.7
+19,de'andre hunter,Boston Celtics,33.445,12.5,3.5,0.9,16.0,13.4,4.4,16.9
+58,clint capela,Boston Celtics,25.365000000000002,8.3,11.5,0.9,19.8,9.200000000000001,12.4,20.700000000000003
+77,onyeka okongwu,Boston Celtics,21.485,7.2,5.4,1.0,12.600000000000001,8.2,6.4,13.6
+36,kevin huerter,Boston Celtics,30.425,12.4,2.8,2.7,15.2,15.100000000000001,5.5,17.900000000000002
+40,chris boucher,Brooklyn Nets,25.835,12.1,7.2,0.0,19.3,12.1,7.2,19.3
+47,khem birch,Brooklyn Nets,23.705,5.4,5.3,1.0,10.7,6.4,6.3,11.7
+24,precious achiuwa,Brooklyn Nets,28.744999999999997,9.0,7.6,1.4,16.6,10.4,9.0,18.0
+38,thaddeus young,Brooklyn Nets,25.72,10.3,6.5,3.5,16.8,13.8,10.0,20.3
+0,pascal siakam,Brooklyn Nets,39.129999999999995,23.8,9.0,5.8,32.8,29.6,14.8,38.6
+2,gary trent jr.,Brooklyn Nets,36.175,18.2,2.7,1.8,20.9,20.0,4.5,22.7
+1,scottie barnes,Brooklyn Nets,37.425,15.9,8.0,3.8,23.9,19.7,11.8,27.7
+82,dwight howard,Dallas Mavericks,20.07,6.7,8.4,0.0,15.100000000000001,6.7,8.4,15.100000000000001
+44,carmelo anthony,Dallas Mavericks,28.025,12.5,4.5,0.9,17.0,13.4,5.4,17.9
+51,austin reaves,Dallas Mavericks,26.025,5.2,2.8,1.5,8.0,6.7,4.3,9.5
+54,malik monk,Dallas Mavericks,25.075,10.0,2.9,2.0,12.9,12.0,4.9,14.9
+53,talen horton-tucker,Dallas Mavericks,25.025,7.7,3.1,2.5,10.8,10.2,5.6,13.299999999999999
+3,lebron james,Dallas Mavericks,35.585,27.4,7.0,6.2,34.4,33.6,13.2,40.6
+8,russell westbrook,Dallas Mavericks,33.585,17.0,6.8,6.2,23.8,23.2,13.0,30.0
+78,rui hachimura,Detroit Pistons,21.405,9.0,2.8,0.9,11.8,9.9,3.6999999999999997,12.7
+65,daniel gafford,Detroit Pistons,23.555,10.0,7.1,1.1,17.1,11.1,8.2,18.2
+52,raul neto,Detroit Pistons,26.625,9.3,2.5,3.8,11.8,13.100000000000001,6.3,15.600000000000001
+23,kentavious caldwell-pope,Detroit Pistons,32.575,13.5,3.5,2.0,17.0,15.5,5.5,19.0
+15,kyle kuzma,Detroit Pistons,33.785,16.1,8.4,2.7,24.5,18.8,11.100000000000001,27.200000000000003
+33,corey kispert,Detroit Pistons,30.42,10.7,4.3,1.1,15.0,11.799999999999999,5.4,16.099999999999998
+43,deni avdija,Detroit Pistons,29.564999999999998,10.8,7.1,1.5,17.9,12.3,8.6,19.4
+80,ish smith,Detroit Pistons,21.42,4.8,2.0,4.4,6.8,9.2,6.4,11.2
+61,jaden mcdaniels,Golden State Warriors,24.494999999999997,8.7,3.6,0.7,12.299999999999999,9.399999999999999,4.3,12.999999999999998
+69,jarred vanderbilt,Golden State Warriors,23.5,5.6,7.2,0.9,12.8,6.5,8.1,13.7
+42,patrick beverley,Golden State Warriors,29.325,9.5,4.3,5.1,13.8,14.6,9.399999999999999,18.9
+10,karl-anthony towns,Golden State Warriors,34.785,23.3,9.7,3.5,33.0,26.8,13.2,36.5
+34,d'angelo russell,Golden State Warriors,30.810000000000002,18.6,3.2,5.6,21.8,24.200000000000003,8.8,27.400000000000002
+13,anthony edwards,Golden State Warriors,34.785,20.4,4.1,3.5,24.5,23.9,7.6,28.0
+68,nicolas batum,Houston Rockets,23.53,6.9,4.0,1.4,10.9,8.3,5.4,12.3
+63,luke kennard,Houston Rockets,24.525,10.4,2.9,1.8,13.3,12.200000000000001,4.7,15.100000000000001
+73,amir coffey,Houston Rockets,22.525,7.8,2.7,1.0,10.5,8.8,3.7,11.5
+12,reggie jackson,Houston Rockets,34.535,19.5,3.5,5.0,23.0,24.5,8.5,28.0
+20,terance mann,Houston Rockets,33.525,11.6,5.4,2.4,17.0,14.0,7.800000000000001,19.4
+79,robert covington,Houston Rockets,21.535,5.9,3.7,0.9,9.600000000000001,6.800000000000001,4.6000000000000005,10.5
+49,ivica zubac,Houston Rockets,27.515,12.0,9.7,1.2,21.7,13.2,10.899999999999999,22.9
+55,dennis schroder,Los Angeles Clippers,25.535,12.3,3.4,4.2,15.700000000000001,16.5,7.6,19.9
+28,christian wood,Los Angeles Clippers,31.475,19.9,10.9,2.1,30.799999999999997,22.0,13.0,32.9
+29,kevin porter jr.,Los Angeles Clippers,31.475,14.9,4.9,6.6,19.8,21.5,11.5,26.4
+72,garrison mathews,Los Angeles Clippers,22.485,8.5,2.4,0.8,10.9,9.3,3.2,11.700000000000001
+46,jae'sean tate,Los Angeles Clippers,27.48,12.7,6.1,2.5,18.799999999999997,15.2,8.6,21.299999999999997
+45,eric gordon,Los Angeles Clippers,28.48,10.9,1.8,2.3,12.700000000000001,13.2,4.1,15.0
+30,jalen green,Los Angeles Clippers,31.475,12.6,3.1,2.0,15.7,14.6,5.1,17.7
+18,reggie bullock,Los Angeles Lakers,33.55,8.4,3.7,1.2,12.100000000000001,9.6,4.9,13.3
+56,spencer dinwiddie,Los Angeles Lakers,25.535,11.1,4.1,4.9,15.2,16.0,9.0,20.1
+5,luka doncic,Los Angeles Lakers,35.55,29.7,10.4,9.7,40.1,39.4,20.1,49.8
+14,jalen brunson,Los Angeles Lakers,34.55,18.6,4.5,6.1,23.1,24.700000000000003,10.6,29.200000000000003
+60,maxi kleber,Los Angeles Lakers,24.605,7.6,5.8,0.9,13.399999999999999,8.5,6.7,14.3
+21,dorian finney-smith,Los Angeles Lakers,32.545,10.6,5.4,1.8,16.0,12.4,7.2,17.8
+64,dwight powell,Los Angeles Lakers,23.535,7.9,4.7,1.1,12.600000000000001,9.0,5.800000000000001,13.7
+76,jonathan kuminga,Minnesota Timberwolves,21.535,11.3,4.4,0.0,15.700000000000001,11.3,4.4,15.700000000000001
+70,jordan poole,Minnesota Timberwolves,23.369999999999997,13.6,2.2,3.2,15.8,16.8,5.4,19.0
+74,otto porter jr.,Minnesota Timberwolves,22.494999999999997,8.7,5.8,1.6,14.5,10.299999999999999,7.4,16.099999999999998
+75,moses moody,Minnesota Timberwolves,22.295,5.6,1.9,0.0,7.5,5.6,1.9,7.5
+17,andrew wiggins,Minnesota Timberwolves,33.57,19.2,4.9,2.1,24.1,21.3,7.0,26.200000000000003
+66,kevon looney,Minnesota Timberwolves,23.605,7.2,8.3,1.7,15.5,8.9,10.0,17.200000000000003
+59,gary payton ii,Minnesota Timberwolves,24.285,9.4,4.2,1.2,13.600000000000001,10.6,5.4,14.8
+9,stephen curry,Minnesota Timberwolves,34.760000000000005,24.9,4.9,6.0,29.799999999999997,30.9,10.9,35.8
+62,lamarcus aldridge,Toronto Raptors,22.240000000000002,12.6,5.5,0.7,18.1,13.299999999999999,6.2,18.799999999999997
+6,patty mills,Toronto Raptors,31.634999999999998,10.0,1.9,2.1,11.9,12.1,4.0,14.0
+7,seth curry,Toronto Raptors,33.085,16.0,2.9,4.5,18.9,20.5,7.4,23.4
+39,james johnson,Toronto Raptors,27.59,7.8,5.2,2.6,13.0,10.4,7.800000000000001,15.600000000000001
+25,bruce brown,Toronto Raptors,31.235,8.8,6.3,1.5,15.100000000000001,10.3,7.8,16.6
+50,andre drummond,Toronto Raptors,25.240000000000002,7.8,11.6,2.2,19.4,10.0,13.8,21.6
+48,isaiah stewart,Washington Wizards,27.415,8.5,9.1,1.0,17.6,9.5,10.1,18.6
+81,killian hayes,Washington Wizards,20.435000000000002,4.6,2.1,3.1,6.699999999999999,7.699999999999999,5.2,9.799999999999999
+31,jerami grant,Washington Wizards,30.455,19.1,4.1,2.3,23.200000000000003,21.400000000000002,6.3999999999999995,25.5
+27,saddiq bey,Washington Wizards,32.4,13.3,5.3,2.2,18.6,15.5,7.5,20.8
+26,cade cunningham,Washington Wizards,32.4,17.1,5.6,5.1,22.700000000000003,22.200000000000003,10.7,27.800000000000004
+67,cory joseph,Washington Wizards,23.43,6.9,2.4,3.6,9.3,10.5,6.0,12.9

@@ -1,0 +1,123 @@
+,Player,Opponent,Min,Pts Est,Reb Est,Ast Est,Pts+Reb Est,Pts+Ast Est,Reb+Ast Est,Pts+Reb+Ast Est
+112,chris boucher,Charlotte Hornets,21.439999999999998,10.2,6.3,-0.0,16.5,10.2,6.3,16.5
+1,fred vanvleet,Charlotte Hornets,37.385000000000005,18.5,4.2,6.6,22.7,25.1,10.8,29.3
+2,pascal siakam,Charlotte Hornets,37.385000000000005,22.8,9.3,5.7,32.1,28.5,15.0,37.8
+80,thaddeus young,Charlotte Hornets,25.425,10.4,7.6,3.7,18.0,14.100000000000001,11.3,21.700000000000003
+13,scottie barnes,Charlotte Hornets,35.39,14.8,8.3,4.0,23.1,18.8,12.3,27.1
+111,khem birch,Charlotte Hornets,22.494999999999997,6.2,6.1,1.1,12.3,7.300000000000001,7.199999999999999,13.4
+19,gary trent jr.,Charlotte Hornets,34.394999999999996,16.4,2.4,2.1,18.799999999999997,18.5,4.5,20.9
+77,jordan clarkson,Dallas Mavericks,26.475,14.3,3.5,2.3,17.8,16.6,5.8,20.1
+39,royce o'neale,Dallas Mavericks,31.47,7.1,4.3,2.2,11.399999999999999,9.3,6.5,13.600000000000001
+29,donovan mitchell,Dallas Mavericks,33.47,24.6,4.7,5.2,29.3,29.8,9.9,34.5
+44,rudy gobert,Dallas Mavericks,31.47,16.7,14.3,1.0,31.0,17.7,15.3,32.0
+65,mike conley,Dallas Mavericks,28.475,13.0,2.9,5.1,15.9,18.1,8.0,21.0
+42,bojan bogdanovic,Dallas Mavericks,31.47,17.5,4.0,1.2,21.5,18.7,5.2,22.7
+43,wendell carter jr.,Houston Rockets,32.045,18.5,11.7,2.9,30.2,21.4,14.6,33.099999999999994
+79,chuma okeke,Houston Rockets,27.04,9.6,4.9,1.5,14.5,11.1,6.4,16.0
+36,cole anthony,Houston Rockets,33.05,17.7,5.5,6.8,23.2,24.5,12.3,30.0
+55,franz wagner,Houston Rockets,31.045,15.3,3.7,2.4,19.0,17.7,6.1,21.4
+97,gary harris,Houston Rockets,23.535,8.9,1.5,1.3,10.4,10.200000000000001,2.8,11.700000000000001
+58,jalen suggs,Houston Rockets,31.045,14.9,3.9,5.1,18.8,20.0,9.0,23.9
+101,mo bamba,Houston Rockets,23.535,10.1,7.6,0.9,17.7,11.0,8.5,18.6
+82,aleksej pokusevski,Indiana Pacers,25.365000000000002,8.3,5.2,1.5,13.5,9.8,6.7,15.0
+113,theo maledon,Indiana Pacers,21.384999999999998,4.1,2.4,1.6,6.5,5.699999999999999,4.0,8.1
+45,shai gilgeous-alexander,Indiana Pacers,31.345,21.4,3.9,4.2,25.299999999999997,25.599999999999998,8.1,29.499999999999996
+94,aaron wiggins,Indiana Pacers,24.425,6.4,3.5,0.9,9.9,7.300000000000001,4.4,10.8
+26,darius bazley,Indiana Pacers,33.39,11.5,6.9,1.2,18.4,12.7,8.1,19.6
+89,isaiah roby,Indiana Pacers,25.405,9.6,4.3,0.9,13.899999999999999,10.5,5.2,14.8
+60,josh giddey,Indiana Pacers,30.42,11.9,6.8,6.1,18.7,18.0,12.899999999999999,24.8
+81,tre mann,Indiana Pacers,25.405,10.4,2.4,0.3,12.8,10.700000000000001,2.6999999999999997,13.100000000000001
+66,talen horton-tucker,Los Angeles Clippers,28.490000000000002,8.3,3.4,2.6,11.700000000000001,10.9,6.0,14.3
+109,austin reaves,Los Angeles Clippers,22.244999999999997,4.3,2.4,1.1,6.699999999999999,5.4,3.5,7.800000000000001
+52,malik monk,Los Angeles Clippers,30.490000000000002,11.9,3.5,2.3,15.4,14.2,5.8,17.7
+5,lebron james,Los Angeles Clippers,36.489999999999995,30.4,7.9,5.9,38.3,36.3,13.8,44.199999999999996
+83,carmelo anthony,Los Angeles Clippers,25.494999999999997,10.3,4.0,0.7,14.3,11.0,4.7,15.0
+21,russell westbrook,Los Angeles Clippers,34.489999999999995,20.1,8.4,7.6,28.5,27.700000000000003,16.0,36.1
+119,trevor ariza,Los Angeles Clippers,20.295,4.2,3.6,1.2,7.800000000000001,5.4,4.8,9.0
+85,nicolas batum,Los Angeles Lakers,25.58,8.0,4.8,1.4,12.8,9.4,6.199999999999999,14.2
+104,amir coffey,Los Angeles Lakers,22.575,6.6,3.0,1.0,9.6,7.6,4.0,10.6
+91,ivica zubac,Los Angeles Lakers,24.575,9.1,7.7,1.0,16.8,10.1,8.7,17.8
+93,luke kennard,Los Angeles Lakers,24.575,9.5,3.0,2.1,12.5,11.6,5.1,14.6
+54,terance mann,Los Angeles Lakers,30.595,10.3,5.4,2.3,15.700000000000001,12.600000000000001,7.7,18.0
+114,robert covington,Los Angeles Lakers,21.585,5.7,3.9,0.9,9.6,6.6000000000000005,4.8,10.5
+16,reggie jackson,Los Angeles Lakers,34.605000000000004,17.8,3.7,4.9,21.5,22.700000000000003,8.600000000000001,26.400000000000002
+50,evan fournier,Miami Heat,30.415,14.8,2.2,2.1,17.0,16.900000000000002,4.300000000000001,19.1
+47,alec burks,Miami Heat,31.42,12.8,4.2,3.0,17.0,15.8,7.2,20.0
+107,quentin grimes,Miami Heat,22.439999999999998,5.7,1.9,-0.0,7.6,5.7,1.9,7.6
+14,julius randle,Miami Heat,35.4,19.5,9.9,4.8,29.4,24.3,14.7,34.2
+103,immanuel quickley,Miami Heat,23.439999999999998,9.2,2.2,3.1,11.399999999999999,12.299999999999999,5.300000000000001,14.5
+69,mitchell robinson,Miami Heat,28.42,8.0,8.8,-0.0,16.8,8.0,8.8,16.8
+0,rj barrett,Miami Heat,37.394999999999996,18.6,5.7,3.0,24.3,21.6,8.7,27.3
+48,joel embiid,Minnesota Timberwolves,31.73,30.7,11.1,4.1,41.8,34.8,15.2,45.9
+34,tyrese maxey,Minnesota Timberwolves,32.725,14.2,2.8,3.9,17.0,18.099999999999998,6.699999999999999,20.9
+96,matisse thybulle,Minnesota Timberwolves,24.295,5.3,1.8,1.1,7.1,6.4,2.9000000000000004,8.200000000000001
+20,tobias harris,Minnesota Timberwolves,34.71,16.4,6.8,3.7,23.2,20.099999999999998,10.5,26.9
+72,jae crowder,New Orleans Pelicans,27.439999999999998,7.2,4.3,1.1,11.5,8.3,5.4,12.600000000000001
+116,torrey craig,New Orleans Pelicans,20.515,5.3,3.3,0.9,8.6,6.2,4.2,9.5
+120,landry shamet,New Orleans Pelicans,20.215,6.4,1.8,1.3,8.200000000000001,7.7,3.1,9.5
+59,cameron johnson,New Orleans Pelicans,30.439999999999998,12.3,4.2,1.3,16.5,13.600000000000001,5.5,17.8
+61,deandre ayton,New Orleans Pelicans,30.68,20.1,10.3,1.3,30.400000000000002,21.400000000000002,11.600000000000001,31.700000000000003
+10,devin booker,New Orleans Pelicans,35.765,26.2,4.7,4.2,30.9,30.4,8.9,35.1
+4,mikal bridges,New Orleans Pelicans,36.415,15.5,4.1,2.0,19.6,17.5,6.1,21.6
+31,tyler herro,New York Knicks,32.489999999999995,19.5,4.8,3.3,24.3,22.8,8.1,27.6
+35,kyle lowry,New York Knicks,32.489999999999995,11.8,4.0,7.3,15.8,19.1,11.3,23.1
+8,jimmy butler,New York Knicks,35.489999999999995,22.7,6.6,5.1,29.299999999999997,27.799999999999997,11.7,34.4
+67,p.j. tucker,New York Knicks,28.490000000000002,7.6,5.3,1.9,12.899999999999999,9.5,7.199999999999999,14.8
+25,bam adebayo,New York Knicks,33.489999999999995,16.6,9.8,3.3,26.400000000000002,19.900000000000002,13.100000000000001,29.700000000000003
+115,duncan robinson,New York Knicks,21.494999999999997,8.8,2.4,1.2,11.200000000000001,10.0,3.5999999999999996,12.4
+99,isaiah jackson,Oklahoma City Thunder,23.490000000000002,12.1,7.6,-0.0,19.7,12.1,7.6,19.7
+30,chris duarte,Oklahoma City Thunder,32.485,15.8,4.8,2.5,20.6,18.3,7.3,23.1
+98,malcolm brogdon,Oklahoma City Thunder,23.490000000000002,13.0,3.6,4.9,16.6,17.9,8.5,21.5
+27,buddy hield,Oklahoma City Thunder,33.485,15.9,4.8,2.4,20.7,18.3,7.199999999999999,23.1
+12,tyrese haliburton,Oklahoma City Thunder,35.485,14.7,4.2,8.7,18.9,23.4,12.899999999999999,27.599999999999998
+117,jalen smith,Oklahoma City Thunder,20.490000000000002,8.8,6.7,0.0,15.5,8.8,6.7,15.5
+71,oshae brissett,Oklahoma City Thunder,27.490000000000002,9.2,6.5,0.9,15.7,10.1,7.4,16.6
+41,christian wood,Orlando Magic,31.494999999999997,18.8,10.7,2.1,29.5,20.900000000000002,12.799999999999999,31.6
+68,eric gordon,Orlando Magic,28.5,12.0,1.9,2.7,13.9,14.7,4.6,16.599999999999998
+76,jae'sean tate,Orlando Magic,26.5,11.8,5.7,2.4,17.5,14.200000000000001,8.1,19.900000000000002
+46,jalen green,Orlando Magic,31.494999999999997,13.9,3.4,2.2,17.3,16.1,5.6,19.5
+118,alperen sengun,Orlando Magic,20.5,9.1,5.2,2.7,14.3,11.8,7.9,17.0
+102,kenyon martin jr.,Orlando Magic,23.5,10.8,4.9,1.3,15.700000000000001,12.100000000000001,6.2,17.0
+84,garrison mathews,Orlando Magic,25.5,10.5,2.9,1.0,13.4,11.5,3.9,14.4
+38,kevin porter jr.,Orlando Magic,31.494999999999997,14.6,4.2,6.4,18.8,21.0,10.600000000000001,25.2
+86,jarred vanderbilt,Philadelphia 76ers,24.895,5.7,8.7,1.0,14.399999999999999,6.7,9.7,15.399999999999999
+6,karl-anthony towns,Philadelphia 76ers,35.85,24.6,9.3,3.0,33.900000000000006,27.6,12.3,36.900000000000006
+49,jaden mcdaniels,Philadelphia 76ers,29.875,10.1,5.0,1.2,15.1,11.299999999999999,6.2,16.299999999999997
+33,d'angelo russell,Philadelphia 76ers,31.865000000000002,18.1,2.9,5.9,21.0,24.0,8.8,26.9
+3,anthony edwards,Philadelphia 76ers,35.85,22.8,5.0,3.5,27.8,26.3,8.5,31.3
+53,patrick beverley,Philadelphia 76ers,29.875,9.1,4.0,5.5,13.1,14.6,9.5,18.6
+56,jonas valanciunas,Phoenix Suns,30.46,15.2,11.4,3.1,26.6,18.3,14.5,29.700000000000003
+7,cj mccollum,Phoenix Suns,36.455,20.7,4.2,3.8,24.9,24.5,8.0,28.7
+73,jaxson hayes,Phoenix Suns,27.465,11.6,5.7,0.0,17.3,11.6,5.7,17.3
+40,herbert jones,Phoenix Suns,31.46,9.1,3.6,1.8,12.7,10.9,5.4,14.5
+106,devonte' graham,Phoenix Suns,22.47,9.9,1.8,2.8,11.700000000000001,12.7,4.6,14.5
+18,brandon ingram,Phoenix Suns,34.455,20.4,5.2,3.9,25.599999999999998,24.299999999999997,9.1,29.499999999999996
+108,ish smith,San Antonio Spurs,22.46,5.0,2.1,4.0,7.1,9.0,6.1,11.1
+17,kyle kuzma,San Antonio Spurs,34.435,15.5,8.4,2.8,23.9,18.3,11.2,26.700000000000003
+90,rui hachimura,San Antonio Spurs,24.46,10.8,3.5,1.0,14.3,11.8,4.5,15.3
+95,raul neto,San Antonio Spurs,24.455,9.0,2.2,2.9,11.2,11.9,5.1,14.100000000000001
+70,kentavious caldwell-pope,San Antonio Spurs,27.525,11.6,3.2,1.6,14.8,13.2,4.800000000000001,16.4
+75,deni avdija,San Antonio Spurs,27.45,8.6,5.9,1.4,14.5,10.0,7.300000000000001,15.9
+78,corey kispert,San Antonio Spurs,26.525,8.2,3.4,0.8,11.6,9.0,4.2,12.4
+121,thomas bryant,San Antonio Spurs,20.46,11.3,5.3,1.2,16.6,12.5,6.5,17.8
+28,lamelo ball,Toronto Raptors,33.485,17.9,6.0,7.1,23.9,25.0,13.1,31.0
+62,montrezl harrell,Toronto Raptors,29.490000000000002,16.0,7.6,2.1,23.6,18.1,9.7,25.700000000000003
+63,p.j. washington,Toronto Raptors,29.490000000000002,12.2,6.8,1.8,19.0,14.0,8.6,20.8
+100,kelly oubre jr.,Toronto Raptors,23.490000000000002,12.0,2.9,0.7,14.9,12.7,3.5999999999999996,15.6
+110,mason plumlee,Toronto Raptors,22.490000000000002,5.4,7.3,2.3,12.7,7.7,9.6,15.0
+9,miles bridges,Toronto Raptors,35.485,21.8,6.9,4.3,28.700000000000003,26.1,11.2,33.0
+11,terry rozier,Toronto Raptors,35.485,20.4,4.4,4.7,24.799999999999997,25.099999999999998,9.100000000000001,29.5
+32,dorian finney-smith,Utah Jazz,32.47,9.3,4.2,1.7,13.5,11.0,5.9,15.2
+87,maxi kleber,Utah Jazz,25.475,6.7,4.5,0.9,11.2,7.6000000000000005,5.4,12.100000000000001
+57,reggie bullock,Utah Jazz,30.47,7.0,3.1,1.0,10.1,8.0,4.1,11.1
+105,dwight powell,Utah Jazz,22.48,7.7,4.4,1.4,12.100000000000001,9.1,5.800000000000001,13.5
+24,jalen brunson,Utah Jazz,33.47,16.3,4.0,4.6,20.3,20.9,8.6,24.9
+88,spencer dinwiddie,Utah Jazz,25.475,9.6,3.7,4.1,13.3,13.7,7.8,17.4
+15,luka doncic,Utah Jazz,35.465,26.8,9.1,7.1,35.9,33.9,16.2,43.0
+23,dejounte murray,Washington Wizards,34.545,20.5,7.9,8.6,28.4,29.1,16.5,37.0
+92,doug mcdermott,Washington Wizards,24.53,14.0,2.6,1.0,16.6,15.0,3.6,17.6
+74,lonnie walker iv,Washington Wizards,27.54,13.0,2.8,2.3,15.8,15.3,5.1,18.1
+64,jakob poeltl,Washington Wizards,29.535,13.3,8.9,2.4,22.200000000000003,15.700000000000001,11.3,24.6
+51,devin vassell,Washington Wizards,30.54,12.9,4.8,1.1,17.7,14.0,5.9,18.8
+37,keldon johnson,Washington Wizards,32.54,15.6,6.0,1.4,21.6,17.0,7.4,23.0
+22,james harden,,34.71,,,,,,,
