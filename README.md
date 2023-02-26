@@ -4,8 +4,9 @@ This model utilised Monte Carlo Simulation in order to predict an NBA player's s
 - Predictions were made using the player's projected minutes, their stats per minute (points, rebounds, assists, etc), and
 is adjusted based on how many points/rebounds/assists the opponents gives up to the player's respective position.
 - A lot of web scraping from different basketball statistic websites were required in order to acquire the necessary data.
-- A normal distribution was used to simulate the results. 
-- A .csv file containing the results was the output. Examples can be found in the Projections file.
+- Joining of multiple dataframes were executed. 
+- Normal distribution was used to simulate the results. 
+- .csv file containing the results was the output. Examples can be found in the Projections file.
 
 ## Code and Resources Used
 **Python Version**: 3.8.8\
