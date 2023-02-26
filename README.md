@@ -7,6 +7,7 @@ is adjusted based on how many points/rebounds/assists the opponents gives up to 
 - Joining of multiple dataframes were executed. 
 - Normal distribution was used to simulate the results. 
 - .csv file containing the results was the output. Examples can be found in the Projections file.
+- Standard deviations of the player's stats were provided as a way for the user to evaluate the volatility of that particular player.
 
 ## Code and Resources Used
 **Python Version**: 3.8.8\
@@ -14,8 +15,8 @@ is adjusted based on how many points/rebounds/assists the opponents gives up to 
 
 ## Background Information
 The idea behind this project was to create a tool where it can used for daily fantasy or betting purposes. Within the fantasy basketball world, one of the 
-most important statistic is a player's minutes played, since the player would not be able to produce any meaningful statistic if he isn't even going to touch the court.
-A similar idea can also be derived from the stat of a team's defense against a stat from different position, as a player who plays in the Center position
+most important statistic is a player's minutes played, since the player would not be able to produce any meaningful stats if he isn't even going to touch the court.
+A similar idea can also be derived from the stat of a team's defense against different positions, as a player who plays in the Center position
 would be tipped to secure more rebounds if the opponent gives up more rebound to a Center. Furthermore, the choice of using stats per minute was an attempt to mitigate 
 the effect of a player getting more minutes as a replacement to an injury player, or vice versa.
 
